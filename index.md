@@ -1,12 +1,12 @@
 #PATHS Cybersecurity Year 1 Labs
 
 ##Content Area
-:[IT Fundamentals](/labs/year1/IT Fundamentals Labs.md)
-:Confidentiality
-:Integrity
-:Availability
-:Social Engineering
-:Business Concepts
-:Blue Team
-:Red Team
-:Computer Science
+1.[IT Fundamentals](/labs/year1/IT Fundamentals Labs.md)
+2.Confidentiality
+3.Integrity
+4.Availability
+5.Social Engineering
+6.Business Concepts
+7.Blue Team
+8.Red Team
+9.Computer Science
