@@ -1,6 +1,6 @@
-#PATHS Cybersecurity Year 1 Labs
+<h1>PATHS Cybersecurity Year 1 Labs</h1>
 
-##Content Area
+<h2>Content Area</h2>
 1.[IT Fundamentals](/labs/year1/IT Fundamentals Labs.md)
 2.Confidentiality
 3.Integrity
