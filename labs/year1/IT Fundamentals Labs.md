@@ -1,33 +1,35 @@
 <h1>IT Fundamentals Labs</h1>
 
+These are the labs students will be doing the first 2 months of the program to get up to speed with PCs, networks, virtual machines and Operating Systems.  The purpose of these labs are to get all students and their different abilities and experience with technology to a good starting point before diving into Cybersecurity.
+
 <h2>Labs</h2>
-1.[Binary and Hex Conversion](/IT Fundamentals/lab1.md)<br>
-2.[PC Components](/IT Fundamentals/lab2.md)<br>
-3.[Simple Troubleshooting Scenarios](/IT Fundamentals/lab3.md)<br>
-4.[Edit a Picture and ZIP](/IT Fundamentals/lab4.md)<br>
-5.[Install Linux VM]<br>
-6.[Install Windows Client VM and Open Office]<br>
-7.[Windows VM File Permssions Config with Multiple User Accounts]<br>
-8.[Introduction to Linux Command Line]<br>
-9.[Install Google File Stream in Windows VM and Sync with Host]<br>
-10.[Install Google Chrome in Linux VM]<br>
-11.[Install Windows Server VM]<br>
-12.[Configure Updates on VMs and Start Yearlong Documentation]<br>
-13.[Create File Server in Windows VM]<br>
-14.[Diagram the Class Network]<br>
-15.[Install pfSense VM and Configure vSwitch LAN]<br>
-16.[Setup DHCP Server and Discover Network Address in all VMs]<br>
-17.[Using dig on Linux VM]<br>
-18.[Updated WiFi Standards]<br>
-19.[Install Database on Linux VM with phpMyAdmin]<br>
-20.[Simple SQL Queries]<br>
-21.[Coding Input, Process and Output]<br>
-22.[Modify Python Code to Connect to Database]<br>
-23.[SQL Injection]<br>
-24.[Symetric and Assymetric Encryption]<br>
-25.[High Availablity]<br>
-26.[Configure Windows and Linux Backups]<br>
-27.[Disaster Recovery testing]<br>
+1.[Binary and Hex Conversion](/IT Fundamentals/lab1.md)<br><br>
+2.[PC Components](/IT Fundamentals/lab2.md)<br><br>
+3.[Simple Troubleshooting Scenarios](/IT Fundamentals/lab3.md)<br><br>
+4.[Edit a Picture and ZIP](/IT Fundamentals/lab4.md)<br><br>
+5.[Install Linux VM]<br><br>
+6.[Install Windows Client VM and Open Office]<br><br>
+7.[Windows VM File Permssions Config with Multiple User Accounts]<br><br>
+8.[Introduction to Linux Command Line]<br><br>
+9.[Install Google File Stream in Windows VM and Sync with Host]<br><br>
+10.[Install Google Chrome in Linux VM]<br><br>
+11.[Install Windows Server VM]<br><br>
+12.[Configure Updates on VMs and Start Yearlong Documentation]<br><br>
+13.[Create File Server in Windows VM]<br><br>
+14.[Diagram the Class Network]<br><br>
+15.[Install pfSense VM and Configure vSwitch LAN]<br><br>
+16.[Setup DHCP Server and Discover Network Address in all VMs]<br><br>
+17.[Using dig on Linux VM]<br><br>
+18.[Updated WiFi Standards]<br><br>
+19.[Install Database on Linux VM with phpMyAdmin]<br><br>
+20.[Simple SQL Queries]<br><br>
+21.[Coding Input, Process and Output]<br><br>
+22.[Modify Python Code to Connect to Database]<br><br>
+23.[SQL Injection]<br><br>
+24.[Symetric and Assymetric Encryption]<br><br>
+25.[High Availablity]<br><br>
+26.[Configure Windows and Linux Backups]<br><br>
+27.[Disaster Recovery testing]<br><br>
 <br>
 
 [Back to root](/PATHS-SOC/)
