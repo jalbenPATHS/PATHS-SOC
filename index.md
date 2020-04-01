@@ -1,13 +1,32 @@
 <h1>PATHS Cybersecurity Year 1 Labs</h1>
 
+Welcome to the PATHS Cybersecurity program lab writeup and curriculum map.  This site is a quick look into the content students will be studying over the 2 years in the program.  Check out each of the content areas to get a quick description of the lab and how that will prepare for certifications.
+
 <h2>Content Area</h2>
 
 1.[IT Fundamentals](/labs/year1/IT Fundamentals Labs.md)<br>
+IT Fundamentals is the first certification to earn, this will help all students get to a basic knowledge of IT concepts to begin studying Cybersecurity. <br>
+
 2.Confidentiality<br>
+Confidentiality is the concept of keeping information secure and only allowing the right people to see it.<br>
+
 3.Integrity<br>
+Integrity ensures that your information is accurate and has not been maniplulated.<br>
+
 4.Availability<br>
+Availability is keeping the information always accessible to the people who need to use it.<br>
+
 5.Social Engineering<br>
+Social Engineering is the term we use for low tech attacks against people's weaknesses to gain access to information and resources.<br>
+
 6.Business Concepts<br>
+In Cybersecurity we need to understand the business needs to protect information and what type of risks are acceptable.<br>
+
 7.Blue Team<br>
+The Blue Team is responsbile for network and device protection.<br>
+
 8.Red Team<br>
+The Red Team is the attacking side of a penetration test.<br>
+
 9.Computer Science<br>
+In the program we use coding to automate tasks and solve complex problems much more efficiently.<br>
