@@ -1,7 +1,7 @@
 <h1>IT Fundamentals Labs</h1>
 
 <h2>Labs</h2>
-1.[Binary and Hex Conversion]<br>
+1.[Binary and Hex Conversion](/IT Fundamentals/lab1.md)<br>
 2.[PC Components]<br>
 3.[Simple Troubleshooting Scenarios]<br>
 4.[Edit a Picture and ZIP]<br>
