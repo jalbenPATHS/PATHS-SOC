@@ -5,8 +5,28 @@
 2.[PC Components]
 3.[Simple Troubleshooting Scenarios]
 4.[Edit a Picture and ZIP]
-
-
-
+5.[Install Linux VM]
+6.[Install Windows Client VM and Open Office]
+7.[Windows VM File Permssions Config with Multiple User Accounts]
+8.[Introduction to Linux Command Line]
+9.[Install Google File Stream in Windows VM and Sync with Host]
+10.[Install Google Chrome in Linux VM]
+11.[Install Windows Server VM]
+12.[Configure Updates on VMs and Start Yearlong Documentation]
+13.[Create File Server in Windows VM]
+14.[Diagram the Class Network]
+15.[Install pfSense VM and Configure vSwitch LAN]
+16.[Setup DHCP Server and Discover Network Address in all VMs]
+17.[Using dig on Linux VM]
+18.[Updated WiFi Standards]
+19.[Install Database on Linux VM with phpMyAdmin]
+20.[Simple SQL Queries]
+21.[Coding Input, Process and Output]
+22.[Modify Python Code to Connect to Database]
+23.[SQL Injection]
+24.[Symetric and Assymetric Encryption]
+25.[High Availablity]
+26.[Configure Windows and Linux Backups]
+27.[Disaster Recovery testing]
 
 [Back to root])(/index.md)
