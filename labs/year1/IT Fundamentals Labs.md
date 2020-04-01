@@ -30,4 +30,4 @@
 27.[Disaster Recovery testing]<br>
 <br>
 
-[Back to root](/index.md)
+[Back to root](/PATHS-SOC/index.md)
