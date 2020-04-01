@@ -2,9 +2,9 @@
 
 <h2>Labs</h2>
 1.[Binary and Hex Conversion](/IT Fundamentals/lab1.md)<br>
-2.[PC Components]<br>
-3.[Simple Troubleshooting Scenarios]<br>
-4.[Edit a Picture and ZIP]<br>
+2.[PC Components](/IT Fundamentals/lab2.md)<br>
+3.[Simple Troubleshooting Scenarios](/IT Fundamentals/lab3.md)<br>
+4.[Edit a Picture and ZIP](/IT Fundamentals/lab4.md)<br>
 5.[Install Linux VM]<br>
 6.[Install Windows Client VM and Open Office]<br>
 7.[Windows VM File Permssions Config with Multiple User Accounts]<br>
