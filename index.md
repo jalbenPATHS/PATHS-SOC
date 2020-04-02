@@ -30,3 +30,18 @@ The Red Team is the attacking side of a penetration test.<br>
 
 9.Computer Science<br>
 In the program we use coding to automate tasks and solve complex problems much more efficiently.<br>
+
+<h2>Year 2 Programs</h2>
+Students in Year 2 can pick from these specialties to build their own learning goals.<br>
+1. Palo Alto Academy <br>
+2. PenTest+ Certification <br>
+3. Enhanced Cybersecurity <br>
+4. Cloud Computing and Security <br>
+5. Digital Forensics <br>
+6. SecureDevOps programming <br>
+
+
+
+<h2>Coding Projects</h2>
+This Python program is setup as a scheduled task/cron job on students virtual machines to generate new random files daily and upload the hash into a Google sheet.  This is the information students are responsible to keep available throughout the school year.
+
