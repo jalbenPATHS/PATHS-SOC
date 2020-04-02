@@ -7,15 +7,15 @@ These are the labs students will be doing the first 2 months of the program to g
 2.[PC Components](/IT Fundamentals/lab2.md)<br><br>
 3.[Simple Troubleshooting Scenarios](/IT Fundamentals/lab3.md)<br><br>
 4.[Edit a Picture and ZIP](/IT Fundamentals/lab4.md)<br><br>
-5.[Install Linux VM]<br><br>
-6.[Install Windows Client VM and Open Office]<br><br>
-7.[Windows VM File Permssions Config with Multiple User Accounts]<br><br>
-8.[Introduction to Linux Command Line]<br><br>
-9.[Install Google File Stream in Windows VM and Sync with Host]<br><br>
-10.[Install Google Chrome in Linux VM]<br><br>
-11.[Install Windows Server VM]<br><br>
-12.[Configure Updates on VMs and Start Yearlong Documentation]<br><br>
-13.[Create File Server in Windows VM]<br><br>
+5.[Install Linux VM](/IT Fundamentals/lab5.md)<br><br>
+6.[Install Windows Client VM and Open Office](/IT Fundamentals/lab6.md)<br><br>
+7.[Windows VM File Permssions Config with Multiple User Accounts](/IT Fundamentals/lab7.md)<br><br>
+8.[Introduction to Linux Command Line](/IT Fundamentals/lab8.md)<br><br>
+9.[Install Google File Stream in Windows VM and Sync with Host](/IT Fundamentals/lab9.md)<br><br>
+10.[Install Google Chrome in Linux VM](/IT Fundamentals/lab10.md)<br><br>
+11.[Install Windows Server VM](/IT Fundamentals/lab11.md)<br><br>
+12.[Configure Updates on VMs and Start Yearlong Documentation](/IT Fundamentals/lab12.md)<br><br>
+13.[Create File Server in Windows VM](/IT Fundamentals/lab13.md)<br><br>
 14.[Diagram the Class Network]<br><br>
 15.[Install pfSense VM and Configure vSwitch LAN]<br><br>
 16.[Setup DHCP Server and Discover Network Address in all VMs]<br><br>
