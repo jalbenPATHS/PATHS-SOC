@@ -1,10 +1,18 @@
-<h1>PATHS Cybersecurity Year 1 Labs</h1>
+<h1>PATHS Cybersecurity Program</h1>
+
+Portland Arts and Technology High School
+196 Allen Ave
+Portland,ME 04103
+
+Instructor: Nate Jalbert
+Email: jalben@portlandschools.org
 
 Welcome to the PATHS Cybersecurity program lab writeup and curriculum map.  This site is a quick look into the content students will be studying over the 2 years in the program.  Check out each of the content areas to get a quick description of the lab and how that will prepare for certifications.
 
 [Program Outline](https://github.com/jalbenPATHS/PATHS-SOC/blob/master/PATHS%20Cyber%20Security%20Program%20Outline%20(1).pdf)
 
-<h2>Content Area</h2>
+
+<h2>Year 1 Labs</h2>
 
 1.[IT Fundamentals](/labs/year1/IT Fundamentals Labs.md)<br>
 IT Fundamentals is the first certification to earn, this will help all students get to a basic knowledge of IT concepts to begin studying Cybersecurity. <br>
