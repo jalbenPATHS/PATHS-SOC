@@ -2,6 +2,8 @@
 
 Welcome to the PATHS Cybersecurity program lab writeup and curriculum map.  This site is a quick look into the content students will be studying over the 2 years in the program.  Check out each of the content areas to get a quick description of the lab and how that will prepare for certifications.
 
+[Program Outline](https://github.com/jalbenPATHS/PATHS-SOC/blob/master/PATHS%20Cyber%20Security%20Program%20Outline%20(1).pdf)
+
 <h2>Content Area</h2>
 
 1.[IT Fundamentals](/labs/year1/IT Fundamentals Labs.md)<br>
