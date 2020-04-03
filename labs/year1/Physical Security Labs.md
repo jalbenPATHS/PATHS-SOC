@@ -13,5 +13,4 @@ The Physical Security labs will look at different methods to keep the building a
 
 
 
-
-[Back to root])(/index.md)
+[Back to root](/PATHS-SOC/)
