@@ -15,4 +15,4 @@ The availability labs will focus on keeping the students data backed up and alwa
 
 
 
-[Back to root])(/index.md)
+[Back to root](/PATHS-SOC/)
