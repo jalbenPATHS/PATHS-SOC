@@ -24,12 +24,12 @@ These are the labs students will be doing the first 2 months of the program to g
 19.[Install Database on Linux VM with phpMyAdmin](/IT Fundamentals/lab19.md)<br><br>
 20.[Simple SQL Queries](/IT Fundamentals/lab20.md)<br><br>
 21.[Coding Input, Process and Output](/IT Fundamentals/lab21.md)<br><br>
-22.[Modify PHP Code to Connect to Database]<br><br>
-23.[SQL Injection]<br><br>
-24.[Symetric and Assymetric Encryption]<br><br>
-25.[High Availablity]<br><br>
-26.[Configure Windows and Linux Backups]<br><br>
-27.[Disaster Recovery testing]<br><br>
+22.[Modify PHP Code to Connect to Database](/IT Fundamentals/lab22.md)<br><br>
+23.[SQL Injection](/IT Fundamentals/lab23.md)<br><br>
+24.[Symetric and Assymetric Encryption](/IT Fundamentals/lab24.md)<br><br>
+25.[High Availablity](/IT Fundamentals/lab25.md)<br><br>
+26.[Configure Windows and Linux Backups](/IT Fundamentals/lab26.md)<br><br>
+27.[Disaster Recovery testing](/IT Fundamentals/lab27.md)<br><br>
 <br>
 
 [Back to root](/PATHS-SOC/)
