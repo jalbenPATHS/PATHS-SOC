@@ -19,4 +19,4 @@ The Red Team labs will use tools for Penetration Tests for system enumeration, v
 
 
 
-[Back to root])(/index.md)
+[Back to root](/PATHS-SOC/)
