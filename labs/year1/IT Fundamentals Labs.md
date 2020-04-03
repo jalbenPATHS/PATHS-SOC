@@ -16,15 +16,15 @@ These are the labs students will be doing the first 2 months of the program to g
 11.[Install Windows Server VM](/IT Fundamentals/lab11.md)<br><br>
 12.[Configure Updates on VMs and Start Yearlong Documentation](/IT Fundamentals/lab12.md)<br><br>
 13.[Create File Server in Windows VM](/IT Fundamentals/lab13.md)<br><br>
-14.[Diagram the Class Network]<br><br>
-15.[Install pfSense VM and Configure vSwitch LAN]<br><br>
-16.[Setup DHCP Server and Discover Network Address in all VMs]<br><br>
-17.[Using dig on Linux VM]<br><br>
-18.[Updated WiFi Standards]<br><br>
-19.[Install Database on Linux VM with phpMyAdmin]<br><br>
-20.[Simple SQL Queries]<br><br>
-21.[Coding Input, Process and Output]<br><br>
-22.[Modify Python Code to Connect to Database]<br><br>
+14.[Diagram the Class Network](/IT Fundamentals/lab14.md)<br><br>
+15.[Install pfSense VM and Configure vSwitch LAN](/IT Fundamentals/lab15.md)<br><br>
+16.[Setup DHCP Server and Discover Network Address in all VMs](/IT Fundamentals/lab16.md)<br><br>
+17.[Using dig on Linux VM](/IT Fundamentals/lab17.md)<br><br>
+18.[Updated WiFi Standards](/IT Fundamentals/lab18.md)<br><br>
+19.[Install Database on Linux VM with phpMyAdmin](/IT Fundamentals/lab19.md)<br><br>
+20.[Simple SQL Queries](/IT Fundamentals/lab20.md)<br><br>
+21.[Coding Input, Process and Output](/IT Fundamentals/lab21.md)<br><br>
+22.[Modify PHP Code to Connect to Database]<br><br>
 23.[SQL Injection]<br><br>
 24.[Symetric and Assymetric Encryption]<br><br>
 25.[High Availablity]<br><br>
