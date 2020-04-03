@@ -13,5 +13,4 @@ These labs will verify the information is correct and has not been tampered with
 
 
 
-
-[Back to root])(/index.md)
+[Back to root](/PATHS-SOC/)
