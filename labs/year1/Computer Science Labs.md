@@ -10,5 +10,4 @@ These labs will apply Cybersecurity skills to programming projects.
 
 
 
-
-[Back to root])(/index.md)
+[Back to root](/PATHS-SOC/)
