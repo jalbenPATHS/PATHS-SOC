@@ -41,6 +41,9 @@ The Red Team is the attacking side of a penetration test.<br>
 9.Computer Science<br>
 In the program we use coding to automate tasks and solve complex problems much more efficiently.<br>
 
+10.Physical Security<br>
+What are some of the physical barriers we can place to build our security onion.<br>
+
 <h2>Year 2 Programs</h2>
 Students in Year 2 can pick from these specialties to build their own learning goals.<br>
 1. Palo Alto Academy <br>
