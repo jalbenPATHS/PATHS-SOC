@@ -13,4 +13,4 @@ These labs are going to show you the relationship between the security team and 
 
 
 
-[Back to root])(/index.md)
+[Back to root](/PATHS-SOC/)
