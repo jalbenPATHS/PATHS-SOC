@@ -17,5 +17,4 @@ Blue Team labs will look at the defensive side of Cybersecurity including: log a
 
 
 
-
-[Back to root])(/index.md)
+[Back to root](/PATHS-SOC/)
