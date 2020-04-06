@@ -3,7 +3,7 @@ These labs are related to keeping information secure and only allowing the right
 
 
 <h2>Labs</h2>
-1.[Setup Yubikey for 2FA]<br>
+1.[Setup Yubikey for 2FA](/Confidentiality/lab1.md)<br>
 2.[Steganography]<br>
 3.[Enhanced Wireless Configuration]<br>
 4.[SSH with Certificates]<br>
