@@ -57,4 +57,4 @@ Students in Year 2 can pick from these specialties to build their own learning g
 
 <h2>Coding Projects</h2>
 Check out some custom projects that are used in the PATHS Cybersecurity Lab<br>
-[Coding Projects](/PATHS-SOC/coding.md)
+[Coding Projects](/PATHS-SOC/coding.html)
