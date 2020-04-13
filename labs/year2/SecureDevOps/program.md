@@ -4,3 +4,6 @@ Students will either work alone or with a partner to develop a secure software a
 
 Students will have access to different online learning platforms and development tools in the lab.
 
+
+[Back to Root](/PATHS-SOC/)
+
