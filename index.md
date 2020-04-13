@@ -49,10 +49,10 @@ What are some of the physical barriers we can place to build our security onion.
 Students in Year 2 can pick from these specialties to build their own learning goals.<br>
 1. [Palo Alto Cybersecurity Academy](labs/year2/Palo Alto/program.md)<br> <br>
 2. [PenTest+ Certification](labs/year2/PenTestPlus/program.md)<br> <br>
-3. [Enhanced Cybersecurity] <br>
-4. [Cloud Computing and Security] <br>
-5. [Digital Forensics] <br>
-6. [SecureDevOps programming] <br>
+3. [Enhanced Cybersecurity] (labs/year2/EnhancedCybersecurity/program.md)<br><br>
+4. [Cloud Computing and Security] (labs/year2/CloudSecurity/program.md)<br><br>
+5. [Digital Forensics](labs/year2/DigitalForensics/program.md)<br><br>
+6. [SecureDevOps programming](labs/year2/SecureDevOps/program.md)<br> <br>
 
 
 
