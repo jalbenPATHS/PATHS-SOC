@@ -7,3 +7,6 @@ CompTIA Cloud+ reflects an emphasis on incorporating and managing cloud technolo
 It includes new technologies to support the changing cloud market as more organizations depend on cloud-based technologies to run mission critical systems, now that hybrid and multi-cloud have become the norm.
 
 The students will have access to Microsoft Azure and Amazon AWS to run through lab activities.
+
+
+[Back to Root](/PATHS-SOC/)
