@@ -1,6 +1,6 @@
 <h1>PATHS Cybersecurity Program</h1>
 
-![PATHS Logo](/PATHS-SOC/Logo.png | width=100)
+![PATHS Logo](/PATHS-SOC/Logo.png)
 Portland Arts and Technology High School<br>
 196 Allen Ave<br>
 Portland,ME 04103<br>
