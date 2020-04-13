@@ -1,5 +1,6 @@
 <h1>PATHS Cybersecurity Program</h1>
 
+![PATHS Logo](/PATHS-SOC/Logo.png =250x250)
 Portland Arts and Technology High School<br>
 196 Allen Ave<br>
 Portland,ME 04103<br>
@@ -46,7 +47,7 @@ What are some of the physical barriers we can place to build our security onion.
 
 <h2>Year 2 Programs</h2>
 Students in Year 2 can pick from these specialties to build their own learning goals.<br>
-1. Palo Alto Academy <br>
+1. [Palo Alto Cybersecurity Academy](labs/year2/Palo Alto/program.md)<br> <br>
 2. PenTest+ Certification <br>
 3. Enhanced Cybersecurity <br>
 4. Cloud Computing and Security <br>
