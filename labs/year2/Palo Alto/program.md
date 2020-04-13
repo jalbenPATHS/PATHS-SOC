@@ -1,3 +1,5 @@
+<h1>Palo Alto Networks Cybersecurity Academy</h1>
+
 Entry-level through advanced courses on today’s cybersecurity landscape, threat prevention, and next-generation technology for cloud, network, endpoint and infrastructure security.
 
 Hands-on labs with a private VMware lab and 2 Palo Alto next-gen firewalls.
